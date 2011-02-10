@@ -2,6 +2,7 @@
 <title>'s Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 61 times with git add -p.</description></item>
 <item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Historian (Level 1)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 13 times with git add -p.</description></item>
 <item><title>Apprentice Socialite (Level 3)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
 </channel></rss>
