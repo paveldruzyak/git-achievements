@@ -2,6 +2,7 @@
 <title>'s Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 61 times with git add -p.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Presenter (Level 2)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Historian (Level 1)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 13 times with git add -p.</description></item>
 </channel></rss>
